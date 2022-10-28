@@ -9,7 +9,7 @@
     {
         "title": "C Programming",
         "id": "2",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSPmWe_BEV7FXUx4bzPfCKntkD8WnnDEgug&usqp=CAU",
+        "img": "https://miro.medium.com/max/750/0*tc5hGik294F0OmbC",
         "description": "Java is a popular programming language, created in 1995. It is owned by Oracle, and more than 3 billion devices run Java. Java works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.). It is one of the most popular programming language in the world. It has a large demand in the current job market",
         "duration": "6"
     },
@@ -23,21 +23,21 @@
     {
         "title": "Php",
         "id": "4",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSPmWe_BEV7FXUx4bzPfCKntkD8WnnDEgug&usqp=CAU",
+        "img": "https://laravelnews.imgix.net/images/php-leader.png?ixlib=php-3.3.1",
         "description": "Java is a popular programming language, created in 1995. It is owned by Oracle, and more than 3 billion devices run Java. Java works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.). It is one of the most popular programming language in the world. It has a large demand in the current job market",
         "duration": "6"
     },
     {
         "title": "C++ ",
         "id": "5",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSPmWe_BEV7FXUx4bzPfCKntkD8WnnDEgug&usqp=CAU",
+        "img": "https://www.educative.io/v2api/editorpage/5393602882568192/image/6038586442907648",
         "description": "Java is a popular programming language, created in 1995. It is owned by Oracle, and more than 3 billion devices run Java. Java works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.). It is one of the most popular programming language in the world. It has a large demand in the current job market",
         "duration": "6"
     },
     {
         "title": "JQuery",
         "id": "6",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSPmWe_BEV7FXUx4bzPfCKntkD8WnnDEgug&usqp=CAU",
+        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JQuery_logo.svg/2560px-JQuery_logo.svg.png",
         "description": "Java is a popular programming language, created in 1995. It is owned by Oracle, and more than 3 billion devices run Java. Java works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.). It is one of the most popular programming language in the world. It has a large demand in the current job market",
         "duration": "6"
     }
